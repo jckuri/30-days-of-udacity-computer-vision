@@ -15,3 +15,10 @@ My pledge "30 days of udacity" for the Computer Vision nanodegree.
 - Now I'm in **Part 1: Introduction to Computer Vision** (Progress 26%); **Lesson 4: Image Representation & Classification; 19. Day and Night Classification**
 
 ![Day 2](images/Day002.png)
+
+**Day 3: September 26, 2019**
+- I watched many video lectures and programmed functions in many Jupyter notebooks.
+- Now I'm in **Part 1: Introduction to Computer Vision** (Progress 46%); **Lesson 5: Convolutional Filters and Edge Detection**  (Progress 73%); **19. Quiz: Hough Space**
+- I encourage @KhushkumarP, @Jacqueline SusanM.
+
+![Day 3](images/Day003.png)
