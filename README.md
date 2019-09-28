@@ -22,3 +22,12 @@ My pledge "30 days of udacity" for the Computer Vision nanodegree.
 - I encourage @KhushkumarP, @Jacqueline SusanM.
 
 ![Day 3](images/Day003.png)
+
+**Day 4: September 27, 2019**
+- I filled the form of the #30DaysofUdacity pledge. 
+- I watched many video lectures and programmed functions in many Jupyter notebooks.
+- Now I'm in **Part 1: Introduction to Computer Vision** (Progress 81%); **Lesson 8: CNN Layers and Feature Visualization**  (Progress 76%); **22. Visualizing CNNs (Part 2)**
+- I encourage @KhushkumarP, @Jacqueline SusanM.
+
+![Day 4](images/Day004-1.png)
+![Day 4](images/Day004-2.png)
