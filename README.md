@@ -32,5 +32,10 @@
 ![Day 4](images/Day004-1.png)
 ![Day 4](images/Day004-2.png)
 
-
+## Day 5: September 28, 2019
+- I watched many video lectures and programmed functions in many Jupyter notebooks.
+- Now I'm in **Part 1: Introduction to Computer Vision** (Progress 88%); **Project: Facial Keypoint Detection**; **3. Project: Facial Keypoint Detection**
+- I'm working on **Project 1: Facial Keypoint Detection**. So far, my average loss is 0.0011, which is good.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB. 
+
+![Day 4](images/Day004-1.png)
