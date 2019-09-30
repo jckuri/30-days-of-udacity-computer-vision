@@ -39,3 +39,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB. 
 
 ![Day 5](images/Day005.png)
+
+## Day 6: September 29, 2019
+- I'm about to submit the **Project 1: Facial Keypoint Detection**. So far, the results are good. See the attached photo.
+- I'm in **Part 1: Introduction to Computer Vision** (Progress 88%); **Project: Facial Keypoint Detection**; **3. Project: Facial Keypoint Detection**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM . 
+
+![Day 6](images/Day006.png)
