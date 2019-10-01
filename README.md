@@ -46,3 +46,11 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM . 
 
 ![Day 6](images/Day006.png)
+
+## Day 7: September 30, 2019
+- I've succesfully passed **Project 1: Facial Keypoint Detection.**
+- I'm in **Part 1: Introduction to Computer Vision** (Progress 95%); **Project: Optimize Your GitHub Profile**; **9. Writing READMEs with Walter**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM. 
+
+![Day 7](images/Day007-1.png)
+![Day 7](images/Day007-2.png)
