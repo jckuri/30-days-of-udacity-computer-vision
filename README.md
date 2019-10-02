@@ -54,3 +54,13 @@
 
 ![Day 7](images/Day007-1.png)
 ![Day 7](images/Day007-2.png)
+
+## Day 8: October 1, 2019
+- I've submitted the **Project - Optimize Your GitHub Profile** and received feedback about my submission.
+- I've completed **Part 1: Introduction to Computer Vision** (Progress 100%)
+- I've completed **Part 2: Optional - Cloud Computing** (Progress 100%)
+- I'm in **Part 3: Advanced Computer Vision & Deep Learning** (Progress 17%); **Lesson 2: YOLO** (Progress 40%); **6. Training on a Grid**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM. 
+
+![Day 8](images/Day008-1.png)
+![Day 8](images/Day008-2.png)
