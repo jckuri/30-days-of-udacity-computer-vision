@@ -71,3 +71,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB. 
 
 ![Day 9](images/Day009.png)
+
+## Day 10: October 3, 2019
+- I watched many video lectures and programmed functions in many Jupyter notebooks.
+- I'm in **Part 3: Advanced Computer Vision & Deep Learning** (Progress 54%); **Lesson 4: Long Short-Term Memory Networks (LSTMs)** (Progress 69%); **11. Quiz**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB. 
+
+![Day 10](images/Day010.png)
