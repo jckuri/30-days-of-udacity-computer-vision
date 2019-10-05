@@ -78,3 +78,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB. 
 
 ![Day 10](images/Day010.png)
+
+## Day 11: October 4, 2019
+- I watched many video lectures and programmed functions in many Jupyter notebooks.
+- I'm in **Part 3: Advanced Computer Vision & Deep Learning** (Progress 91%); **Project: Image Captioning**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB. 
+
+![Day 11](images/Day011.png)
