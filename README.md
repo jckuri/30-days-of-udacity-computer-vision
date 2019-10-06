@@ -85,3 +85,13 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
 
 ![Day 11](images/Day011.png)
+
+## Day 12: October 5, 2019
+- I had a virtual meetup with the people of the Deep Learning nanodegree.
+- I had a virtual meetup with the people of the Computer Vision nanodegree.
+- I'm in **Part 3: Advanced Computer Vision & Deep Learning** (Progress 91%); **Project: Image Captioning**
+- I'm programming **Project 2: Image Captioning.** However, I'm stuck because the COCO dataset is tricky to install. Perhaps I should work in the Udacity website.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
+
+![Day 12](images/Day012-1.png)
+![Day 12](images/Day012-2.png)
