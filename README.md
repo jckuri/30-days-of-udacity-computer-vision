@@ -101,5 +101,5 @@
 - I'm programming **Project 2: Image Captioning.** I finally understood the CNN Encoder and the RNN Decoder. I already programmed the RNN Decoder and I selected good-enough hyperparameters to train my neural networks. The learning curve is slowly and steadily converging, almost monotonically with minor jumps in the loss. See the photo. But it takes ages to train in the Udacity's GPU. I hope my 50 hours of GPU won't be consumed too fast.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
 
-![Day 12](images/Day012-1.png)
-![Day 12](images/Day012-2.png)
+![Day 13](images/Day013-1.png)
+![Day 13](images/Day013-2.png)
