@@ -107,9 +107,11 @@
 ## Day 14: October 7, 2019
 - I'm in **Part 3: Advanced Computer Vision & Deep Learning** (Progress 91%); **Project: Image Captioning**
 - I just submitted my **Project 2: Image Captioning.** *(Crossing fingers.)* I'm deeply impressed by the results. See the photos.
+- UPDATE: I successfully passed my **Project 2: Image Captioning.**
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
 
 ![Day 14](images/Day014-1.png)
 ![Day 14](images/Day014-2.jpeg)
 ![Day 14](images/Day014-3.jpeg)
 ![Day 14](images/Day014-4.jpeg)
+![Day 14](images/Day014-5.png)
