@@ -115,3 +115,16 @@
 ![Day 14](images/Day014-3.jpeg)
 ![Day 14](images/Day014-4.jpeg)
 ![Day 14](images/Day014-5.png)
+
+## Day 15: October 8, 2019
+- I submitted my **Project: Improve Your LinkedIn Profile**. I passed it and a project reviewer gave me extensive feedback to improve my LinkedIn profile.
+- I'm in **Part 4: Object Tracking and Localization** (Progress 15%); **Lesson 2 - Robot Localization** (Progress 50%); **19. Notebook: Multiple Measurements**
+- So far, I've succesfully passed:
+  - Project 1: Facial Keypoint Detection;
+  - Project - Optimize Your GitHub Profile;
+  - Project 2: Image Captioning;
+  - and Project: Improve Your LinkedIn Profile.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
+
+![Day 14](images/Day014-1.png)
+![Day 14](images/Day014-2.png)
