@@ -126,5 +126,5 @@
   - and Project: Improve Your LinkedIn Profile.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
 
-![Day 14](images/Day014-1.png)
-![Day 14](images/Day014-2.png)
+![Day 15](images/Day015-1.png)
+![Day 15](images/Day015-2.png)
