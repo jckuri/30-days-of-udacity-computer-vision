@@ -128,3 +128,9 @@
 
 ![Day 15](images/Day015-1.png)
 ![Day 15](images/Day015-2.png)
+
+## Day 16: October 9, 2019
+- I'm in **Part 4: Object Tracking and Localization** (Progress 67%); **Lesson 6 - Matrices and Transformation of State** (Progress 74%); **23. Matrix Multiplication**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
+
+![Day 16](images/Day016.png)
