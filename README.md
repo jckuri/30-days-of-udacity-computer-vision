@@ -134,3 +134,14 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA. 
 
 ![Day 16](images/Day016.png)
+
+## Day 17: October 10, 2019
+- I finish watching all the video lectures of the core curriculum:
+  - **Part 1: Introduction to Computer Vision** (Progress 100%);
+  - **Part 2: Optional - Cloud Computing** (Progress 100%);
+  - **Part 3: Advanced Computer Vision & Deep Learning** (Progress 100%);
+  - **Part 4: Object Tracking and Localization** (Progress 100%).
+- I'm working in the final project: **Project 3 - Landmark Detection & Robot Tracking (SLAM)**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
+
+![Day 17](images/Day017.png)
