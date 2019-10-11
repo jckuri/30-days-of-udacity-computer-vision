@@ -145,3 +145,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
 
 ![Day 17](images/Day017.png)
+
+## Day 18: October 11, 2019
+- I submitted and passed the Project 3 - Landmark Detection & Robot Tracking (SLAM).
+- I graduated from the Computer Vision nanodegree. 
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
+
+![Day 18](images/Day018.png)
