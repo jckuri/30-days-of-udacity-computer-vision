@@ -152,3 +152,13 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
 
 ![Day 18](images/Day018.png)
+
+## Day 19: October 12, 2019
+- I attended the virtual meetup of Deep Learning.
+- I attended the virtual meetup of Computer Vision.
+- I applied to the role of technical moderator of the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
+
+![Day 19](images/Day019-1.png)
+![Day 19](images/Day019-2.jpg)
+![Day 19](images/Day019-3.png)
