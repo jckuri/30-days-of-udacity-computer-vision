@@ -162,3 +162,10 @@
 ![Day 19](images/Day019-1.png)
 ![Day 19](images/Day019-2.jpg)
 ![Day 19](images/Day019-3.png)
+
+## Day 20: October 13, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- I'm in **Part 2. Review: Training A Neural Network** (Progress 10%); **Lesson 1 - Feedforward and Backpropagation** (Progress 60%); **3. Neural Network Architecture.**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
+
+![Day 20](images/Day020.png)
