@@ -177,3 +177,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
 
 ![Day 21](images/Day021.png)
+
+## Day 22: October 15, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- I'm in **Part 2. Review: Training A Neural Network** (Progress 41%); **Lesson 2 - Training Neural Networks** (Progress 50%); **8. Dropout**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
+
+![Day 22](images/Day022.png)
