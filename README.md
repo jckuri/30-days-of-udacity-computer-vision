@@ -184,3 +184,12 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
 
 ![Day 22](images/Day022.png)
+
+## Day 23: October 16, 2019
+- I was selected as technical moderator of computer vision in the Slack channel #cvnd_techhelp of the Phase 2 of the Secure & Private Artificial Intelligence Challenge (SPAIC). See the photo.
+- I applied to become a mentor of the Computer Vision nanodegree. **crossing fingers**
+- I'm watching all the video lectures of the extracurricular material.
+- I'm in **Part 2. Review: Training A Neural Network** (Progress 75%); **Lesson 3 - Deep Learning with PyTorch** (Progress 27%); **3. PyTorch Tensors**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
+
+![Day 23](images/Day023.png)
