@@ -207,3 +207,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A. 
 
 ![Day 25](images/Day025.png)
+
+## Day 26: October 19, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- I'm in **Part 2. Review: Training A Neural Network** (Progress 94%); **Lesson 3 - Deep Learning with PyTorch** (Progress 82%); **9. Loading Data Sets with Torchvision**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 26](images/Day026.png)
