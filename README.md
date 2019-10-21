@@ -214,3 +214,10 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 26](images/Day026.png)
+
+## Day 27: October 20, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- I'm in **Part 2. Review: Training A Neural Network** (Progress 100%); **Lesson 3 - Deep Learning with PyTorch** (Progress 100%); **11. Transfer Learning Solution**
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 27](images/Day027.png)
