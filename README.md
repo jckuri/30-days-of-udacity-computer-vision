@@ -229,3 +229,10 @@
 
 ![Day 28](images/Day028-1.png)
 ![Day 28](images/Day028-2.png)
+
+## Day 29: October 22, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- Today I programmed part of my vectorial field of rewards for AWS DeepRacer. See the photo. The deadline for the final race is close.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 29](images/Day029.png)
