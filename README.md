@@ -236,3 +236,12 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 29](images/Day029.png)
+
+## Day 30: October 23, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- I'm still programming my vectorial field of rewards for AWS DeepRacer. The deadline for the final race is close.
+- I'm reading some links about fully convolutional neural networks and semantic segmentation, given that there is a lesson about it in the extracurricular section. See the photo.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 30](images/Day030.png)
