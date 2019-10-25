@@ -245,3 +245,12 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 30](images/Day030.png)
+
+## Day 31: October 24, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- Today I extensively investigated how to draw vectorial fields in matplotlib.
+- I programmed the first version of my vectorial field of rewards for AWS DeepRacer. However, my vectorial field of rewards is not aligned, yet, as you can see in the photo. The deadline for the final race of AWS DeepRacer is close. I need to hurry up!
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 31](images/Day031.jpeg)
