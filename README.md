@@ -259,7 +259,7 @@
 - I'm watching all the video lectures of the extracurricular material.
 - The deadline for the final race of AWS DeepRacer is close. I need to hurry up!
 - I succesfully implemented my vectorial field of rewards for AWS DeepRacer. See the first photo.
-- I turned the steering wheel to make the car stay on track. See the second photo.
+- I turned the steering wheel to make the car stay on track. Now my vectorial field of rewards looks like a centipede. I'm a mathematical artist. See the second photo.
 - I closed the loop of the track. That wasn't trivial. In fact, I still get errors in the AWS DeepRacer server. See the third photo.
 - I answered some questions in the Slack channel #cvnd_techhelp.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
