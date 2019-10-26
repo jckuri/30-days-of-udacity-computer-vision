@@ -254,3 +254,16 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 31](images/Day031.jpeg)
+
+## Day 32: October 25, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- The deadline for the final race of AWS DeepRacer is close. I need to hurry up!
+- I succesfully implemented my vectorial field of rewards for AWS DeepRacer. See the first photo.
+- I turned the steering wheel to make the car stay on track. See the second photo.
+- I closed the loop of the track. That wasn't trivial. In fact, I still get errors in the AWS DeepRacer server. See the third photo.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 32](images/Day032-1.jpeg)
+![Day 32](images/Day032-2.jpeg)
+![Day 32](images/Day032-3.jpeg)
