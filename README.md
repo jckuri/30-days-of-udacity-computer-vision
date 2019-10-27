@@ -267,3 +267,12 @@
 ![Day 32](images/Day032-1.jpeg)
 ![Day 32](images/Day032-2.jpeg)
 ![Day 32](images/Day032-3.jpeg)
+
+## Day 33: October 26, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- The deadline for the final race of AWS DeepRacer is close. I need to hurry up!
+- Now I implemented my vectorial field of rewards for AWS DeepRacer by using only the 2 indexes provided by `params['closest_waypoints']`. My vectorial field is smooth and continuous. See the photo. I hope to test it soon in my first AWS DeepRacer submission. 
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 33](images/Day033.png)
