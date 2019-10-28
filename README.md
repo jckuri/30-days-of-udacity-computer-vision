@@ -276,3 +276,12 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 33](images/Day033.png)
+
+## Day 34: October 27, 2019
+- I'm watching all the video lectures of the extracurricular material.
+- The deadline for the final race of AWS DeepRacer is close. I need to hurry up!
+- I managed to make my first valid submission. Not all submissions are valid. Your car must be able to finish a number of consecutive laps in a complete way. On average, my car finished each lap in 22 seconds. See the photo and the following link: https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toronto-turnpike-2019/?racerName=JuanCarlosKuriPinto
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 34](images/Day034.png)
