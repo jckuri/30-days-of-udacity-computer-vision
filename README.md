@@ -296,7 +296,7 @@
 
 ## Day 36: October 29, 2019
 - The deadline for the final race of AWS DeepRacer is close. I need to hurry up!
-- I'm training a new model whose maximum speed is 10 m/s. Training at high speeds takes a much longer time. After 12 hours of GPU training, my new model starts to show signs of understanding of the problem of driving at high speeds. See the reward graph.
+- I'm training a new model whose maximum speed is 10 m/s. Training at high speeds takes a much longer time. After 12 hours of GPU training, my new model starts to show signs of understanding the problem of driving at high speeds. See the reward graph. That's why I'm creating a new kind of neural network to overcome the limitations of deep learning.
 - I answered some questions in the Slack channel #cvnd_techhelp.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
