@@ -301,3 +301,16 @@
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 36](images/Day036.png)
+
+## Day 37: October 30, 2019
+- The deadline for the final race of AWS DeepRacer is really close, in just 13 hours and a half. I need to hurry up!
+- I corrected 2 mistakes in my reward function for DeepRacer. 
+  - First, I forgot to take the absolute value of the steering angle to compute the steering factor. I was like driving with someone constantly pulling the steering wheel to one side. In spite of this inconvenience, Deep Reinforcement Learning managed to adapt to this deformed causal geometry and achieved great times.
+  - Second, I forgot to convert to radians when computing the maximum steering angle. This error almost nullified the action of the steering angle because such factor was about 0.00436.
+  - I corrected both mistakes and now I improved my times a little bit: Average Lap in 12.53 seconds and Ranked #213.
+https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toronto-turnpike-2019/?racerName=JuanCarlosKuriPinto
+- Today, I had my job interview with Ravi Jain. I applied to become a mentor of the computer vision nanodegree.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 37](images/Day037.png)
