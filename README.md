@@ -314,3 +314,12 @@ https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toro
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
 
 ![Day 37](images/Day037.png)
+
+## Day 38: October 31, 2019
+- The final race of AWS DeepRacer is over. I submitted more models but I didn't improved my best time. I got the following results: Average Lap in 12.53 seconds, Ranked #221, and a beautiful debt of $345.
+https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toronto-turnpike-2019/?racerName=JuanCarlosKuriPinto
+- I will continue watching all the video lectures of the extracurricular material of the computer vision nanodegree.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV. 
+
+![Day 38](images/Day038.png)
