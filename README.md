@@ -331,3 +331,5 @@ https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toro
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 39](images/Day039.png)
+
+#30DaysofUdacity #PracticeMakesPerfect
