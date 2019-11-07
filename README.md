@@ -363,3 +363,11 @@ https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toro
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 43](images/Day043.png)
+
+## Day 44: November 6, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I'm still programming the **Mini Project "Dermatologist AI"**. It's a little bit tough.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
+
+![Day 44](images/Day044.png)
