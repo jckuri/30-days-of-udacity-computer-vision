@@ -371,3 +371,11 @@ https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toro
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 44](images/Day044.png)
+
+## Day 45: November 7, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- I talked to a friend in Finland, Karoliina Salminen, about the Izhikevich's model of spiking neurons. We are planning to implement it as an artificial intelligence project for the Phase 2 of SPAIC, in the Slack channel #sg_neuroscience. See the photo.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
+
+![Day 45](images/Day045.png)
