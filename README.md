@@ -379,3 +379,14 @@ https://aws.amazon.com/deepracer/schedule-and-standings/leaderboard-virtual-toro
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 45](images/Day045.png)
+
+## Day 46: November 8, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I'm watching all the video lectures of the **extracurricular** material of the computer vision nanodegree.
+- Today I received my badge for completing the #30DaysofUdacity. See the photo.
+- It seems that I was selected to become a mentor of the computer vision nanodegree. I'm so happy. Thank Vienna Harvey
+and Ravi Jain. I won't disappoint you. I'll do my best.
+- Today I took the computer-based GRE at Universidad Espíritu Santo. The GRE lasted 5 hours. I'm exhausted. I obtained 152/170 in Verbal Reasoning and 160/170 in Quantitative Reasoning, not bad. I took the GRE because I will apply for the Ph.D. program in Machine Learning at Georgia Institute of Technology, this December.
+- I answered some questions in the Slack channel #cvnd_techhelp.
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
+
+![Day 46](images/Day046.png)
