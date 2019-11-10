@@ -390,3 +390,14 @@ and Ravi Jain. I won't disappoint you. I'll do my best.
 - I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
 
 ![Day 46](images/Day046.png)
+
+## Day 47: November 9, 2019. #30DaysofUdacity #PracticeMakesPerfect
+- I will stop logging my daily activities in https://github.com/jckuri/30-days-of-udacity-computer-vision
+Why? Because I already received my badge for completing the #30DaysofUdacity.
+But I will continue logging my daily activities for the Phase 2 of the Secure & Private Artificial Intelligence Challenge (SPAIC) in the following log: https://github.com/jckuri/4-months-of-udacity-spaic-2
+- Today, I watched the YouTube **"Michael Bronstein - Geometric deep learning on graphs: going beyond Euclidean data"**, in the following link: https://www.youtube.com/watch?v=b187J4ndZWY
+- I encourage @KhushkumarP, @Jacqueline SusanM, @labibaR, @OudarjyaS, @MuhammadN, @Mohamed ChoukriB, @KonstantinosK, @AdityaK, @MahmmoudM, @LauraT, @ElenaK, @HelenaB, @RobO, @ShafaqA, @Nancy A, @TzuhsinC, @TemitopeO, @AarthiA, @NabhanA, @MD BAPPIP, @AnkitV, @fuzhanR. 
+
+![Day 47](images/Day047.png)
+
+# I will continue logging my daily activities for the Phase 2 of the Secure & Private Artificial Intelligence Challenge (SPAIC) in the following log: https://github.com/jckuri/4-months-of-udacity-spaic-2
